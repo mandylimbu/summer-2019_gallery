@@ -1,0 +1,195 @@
+
+body{
+    background-color: azure;
+}
+#container {
+        width: 900px;
+        background-color: azure;
+        margin: 0 auto;
+        padding: 10px;
+        font-size: 20px;
+        font-family: "Arial", sans-serif;
+        }
+
+
+header {
+    width: 900px;
+    border:1 px black dashed;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+    font-size: 24px;
+}
+
+header li {
+    display: inline;
+}
+
+    
+
+main{
+    width:900px;
+    border: 1px black dashed;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "sans-serif";
+    color: azure;
+    font font-family:serif ;
+    }
+
+main p {
+    margin:10px;
+    font-size: 24px;
+    color: black;
+    background-color: azure;
+    font-family: "sans-serif","Times New Roman";
+}
+plant aloe { 
+    width: 150px;
+    height: 150px;}
+
+
+
+footer{
+    width:900px;
+    border: 1px black dotted;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+    background-color: red;
+    }
+
+}
+/* text style start*/
+/*h1 {
+	    font-size: 100px;
+	    font-family: cursive;
+	    color: black;
+	    text-align: center;
+	}
+
+li{
+    font-size: 36px;
+    font-family:  "Arial";
+    color: aqua
+}
+ul {
+*/
+
+.travel img {
+    width:200px;
+}
+
+#right #craterp {
+    padding=20px;
+}
+    
+
+#deathvalley1 {
+    float:left;
+    margin-top: 20px;
+    height 250px;
+    padding: 20px
+}
+#deathvalley2 {
+    float:right
+        margin-top: 20px;
+    height 250px;
+    padding: 20px
+}
+
+ul{
+    list-style-type: none;
+}
+#endtext {
+        clear: both;
+        }
+#utah {
+    width:150px;
+    height:150px;
+}
+.flower {
+    width:250px;
+}
+/*#mom1{
+    
+    float:right;
+    margin-top: 20px;
+    height: 250px;
+}
+#mom2{
+    float:left;
+    
+    margin-top: 20px;
+    height: 250px;*/
+red, red1 ,red2 {
+    padding: 10px
+}
+
+#red1{
+    float:right;
+    margin-top: 20px;
+    height: 250px;
+}
+#red2{
+    float:left;
+    margin-top: 20px;
+    height: 250px;
+}
+yellow, yellow1, yellow2{
+    padding: 15px;
+}
+#yellow1{
+    float:right;
+    margin-top: 20px;
+    height: 250px;
+}
+#yellow2{
+    float:left;
+    margin-top: 20px;
+    height: 250px;
+}
+  #endtext {
+        clear: both;
+        }
+#tulip {
+    width:200px;
+    height:200px;  
+}
+#line {
+    display: inline-block;
+}
+#aloe {
+    float:right;
+}
+#aloe #alo {
+    padding=25px;
+}
+#holy{
+    float:right;
+    height:150px;
+    margin-top: 20px;
+}
+#basil{
+   float:right;
+    height:150px;
+    margin-top: 20px; 
+}
+#holy #basil #holyp {
+    padding=20px;
+}
+#cilantro#dill {
+    padding=25px;
+}
+#dill{
+    float:right;
+    height:150px;
+    margin-top: 20px;
+}
+#nettle {
+    float:right;
+    height:150px;
+    margin-top: 20px; 
+    padding:20px;
+}
